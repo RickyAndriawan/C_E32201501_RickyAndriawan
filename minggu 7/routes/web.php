@@ -20,9 +20,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-/* Route::resource('home', RickyController::class);
-
-Route::resource('dashboard', DashboardController::class); */
+/* T */
 
 /*Route::get('/halo', function(){
 	return 'pemrograman lanjut materi laravel by ricky';
