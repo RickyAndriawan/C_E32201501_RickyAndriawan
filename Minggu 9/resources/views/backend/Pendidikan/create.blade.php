@@ -18,7 +18,7 @@
             <div class="col-lg-12">
                 <section class="panel">
                     <header class="panel-heading">
-                        {{ isset($aprilia_lecturel) ? 'Mengubah' : 'Menambahkan' }} Pendidikan
+                        {{ isset($ricky_lecturel) ? 'Mengubah' : 'Menambahkan' }} Pendidikan
                     </header>
                 @if ($errors->any())
                 <div class="alert alert-danger">
